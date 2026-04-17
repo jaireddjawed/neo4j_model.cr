@@ -10,7 +10,7 @@ license: MIT
 
 dependencies:
   neo4j:
-    github: jaireddjawed/neo4j.cr
+    github: jaireddjawed/neo4j_model.cr
   pool:
     github: ysbaddaden/pool
 
